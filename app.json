@@ -1,0 +1,9 @@
+{
+  "name": "hatebufilter",
+  "description": "Hatena Bookmark Hotentry Filtering Feed",
+  "keywords": [
+    "go"
+  ],
+  "website": "https://hatebufilter.herokuapp.com/",
+  "repository": "https://github.com/KanDai/hatebufilter"
+}
