@@ -1,10 +1,9 @@
 # はてブフィルター
 
-はてブのホットエントリーを指定したブックマーク数以上のものだけ返してくれるRSSフィード。
+はてブのホットエントリーを指定したブックマーク数以上のものだけ返してくれる RSS フィード。
 
 全取得
-https://hatebufilter.herokuapp.com/
+https://hatebufilter.an.r.appspot.com/
 
-例) 300ブックマーク以上のホットエントリー
-https://hatebufilter.herokuapp.com/300
-
+例) 300 ブックマーク以上のホットエントリー
+https://hatebufilter.an.r.appspot.com/300
